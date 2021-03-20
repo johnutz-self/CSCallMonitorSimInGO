@@ -182,6 +182,3 @@ main(){
 
 	fmt.Printf("Number of Alerts: %d\n", iCntAlert)
 }
-
-//		fmt.Printf("ERR:\n strconv.Atoi(os.Args[1])\n %s\n", eAtoi,
-//			argPreceedingMinutes)
